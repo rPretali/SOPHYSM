@@ -1,0 +1,12 @@
+[submodule "J-Space.jl"]
+	path = J-Space.jl
+	url = https://github.com/BIMIB-DISCo/J-Space.jl.git
+	branch = development
+[submodule "JHistint.jl"]
+	path = JHistint.jl
+	url = https://github.com/BIMIB-DISCo/JHistint.jl.git
+	branch = development
+[submodule "SOPHYSM.jl"]
+	path = SOPHYSM.jl
+	url = https://github.com/BIMIB-DISCo/SOPHYSM.jl.git
+	branch = development
